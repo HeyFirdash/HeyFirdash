@@ -24,11 +24,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=heyfirdash&label=Profile%20Views&color=9600F7&style=flat-square" alt="Profile Views" />
-  </p>
-
+  
 </div>
 
 ---
